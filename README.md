@@ -1,1 +1,0 @@
-# struttura-dati-in-c
